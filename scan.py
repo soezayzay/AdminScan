@@ -3,6 +3,8 @@ import requests
 import argparse
 from colorama import Fore,Back,Style
 import os,sys
+#coder : $0ul
+#date : 14/7/2022
 #colors 
 red = Fore.RED 
 green = Fore.GREEN
